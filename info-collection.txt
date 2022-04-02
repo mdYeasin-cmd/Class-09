@@ -1,0 +1,17 @@
+Color - 
+
+Header color: #02918c            	(about/work/services/contact head color)
+Sub Text font color: #7e8287		(about/work/services/contact head color)
+Sub Text bolded font color: #7e8287	(about/work/services/contact head color)
+Font color: #ffffff
+Banner button color: #cfc91d     	(contact button)
+Banner button text color: #0b1016  	(contact button)
+
+Font - 
+
+Font family: Open Sans
+Font weight: 800(Extrabold)/400(Regular)
+
+Contact Section color - #0b0b0b
+Contact Section Bar & text color - #898989
+
